@@ -9,7 +9,7 @@
  *                   5)ExecuteScaler(SqlCommand cmd)
  *                   6)GetDataSet(SqlCommand cmd)
  * Class Files      : DB.cs
- * Developed by     :Tarun
+ * Developed by     :Keshav
  * Date             :15/06/2012
  * Modified By      :
  * Modi. Description:
